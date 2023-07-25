@@ -43,7 +43,11 @@
   "scripts": {
     "CountChar": "nodemon CountingCharacters.js",
     "EvenOdd": "nodemon EvenOrOdd.js",
-    "SimpleSum": "nodemon SimpleSum.js"
+    "SimpleSum": "nodemon SimpleSum.js",
+    "Degree": "nodemon CelsiusToFahrenheit.js",
+    "Minimal": "nodemon MinimalYetImportant.js",
+    "Triangle": "nodemon TriangleMeasurement.js",
+    "Maximum": "nodemon GreaterInThree.js"
   },
   "keywords": [],
   "author": "Srijon Ashraf",
