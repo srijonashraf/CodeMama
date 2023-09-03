@@ -19,6 +19,3 @@ const BMICalc = (...numbers) => {
     main(data.toString());
   });
   
-
-
-  Hifdhfhd  
