@@ -59,7 +59,8 @@
     "NumberType": "nodemon PositiveNegative.js",
     "Swap": "nodemon GameOfSwap.js",
     "LeapYear": "nodemon LeapYearProblem.js",
-    "Dist": "nodemon TwoPointDistance.js"
+    "Dist": "nodemon TwoPointDistance.js",
+    "FindNext": "nodemon FindNextNumber.js"
   },
   "keywords": [],
   "author": "Srijon Ashraf",
